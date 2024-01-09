@@ -19,6 +19,8 @@
 - rxout: the data after completed transmission
 - rxdone: sign to completed reveiving
 - txdone: sign to completed transmitting
-- ![image](https://github.com/vanphuc1208/UART-with-Verilog/assets/116254695/15e9f1ad-e9a1-40a0-b25f-71e2c23a0813)
-  The data will be transmitted at the fixed baudrate and recevied at the bit-pulse center.
+
+The data will be transmitted at the fixed baudrate and recevied at the bit-pulse center.
+ ![image](https://github.com/vanphuc1208/UART-with-Verilog/assets/116254695/15e9f1ad-e9a1-40a0-b25f-71e2c23a0813)
+  
 
